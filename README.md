@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Thavashankarraja</h1>
 <h3 align="center">A passionate full stack developer and programmer </h3>
-<img  align="center" width="400"src="https://cdn.dribbble.com/users/2170220/screenshots/4535264/labor_day.gif">
+<img  align="center" src="https://cdn.dribbble.com/users/2170220/screenshots/4535264/labor_day.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thavashankarraja&label=Profile%20views&color=0e75b6&style=flat" alt="thavashankarraja" /> </p>
 
