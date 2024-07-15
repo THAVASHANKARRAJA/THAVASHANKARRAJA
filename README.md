@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thavashankarraja" alt="thavashankarraja" /></a> </p>
 
-- 🔭 I’m currently working on [e-commerce website](https://github.com/THAVASHANKARRAJA/e-commerce_site.git)
 
-- 🌱 I’m currently learning **django**
 
 - 👨‍💻 All of my projects are available at [https://github.com/THAVASHANKARRAJA](https://github.com/THAVASHANKARRAJA)
 
-- 📫 How to reach me **20eucs158@skcet.ac.in**
+- 📫 How to reach me **thavashankarraja**
 
 - ⚡ Fun fact **I am a kind person with a good heart with a good humour**
+  
+- 👨‍💻 Find my projects at [https://thavashankarraja-portfolio.netlify.app/]
 
 
 <p align="left">
